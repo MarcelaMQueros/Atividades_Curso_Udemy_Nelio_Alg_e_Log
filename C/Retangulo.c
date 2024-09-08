@@ -23,9 +23,4 @@ int main() {
 
     printf("AREA = %.4lf \nPERIMETRO = %.4lf \nDIAGONAL = %.4lf", area, perimetro, diagonal);
 
-
-
-
-
-
 }
