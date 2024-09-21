@@ -2,8 +2,8 @@
 using System.Globalization;
 
 
-namespace Retangulo {
-    class Retangulo {
+namespace Idade {
+    class Idade {
         static void Main(String[] args) {
             CultureInfo CI = CultureInfo.InvariantCulture;
             string nome1, nome2;
